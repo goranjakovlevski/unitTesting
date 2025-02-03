@@ -1,8 +1,13 @@
 # vue-unit-testing-example
 
-> A Vue.js project
+> A Vue.js JEST project
 
 ## Build Setup
+to run project:
+- npm install
+- npm run dev
+
+- npx jest
 
 ``` bash
 # install dependencies
